@@ -4,12 +4,16 @@
 
 # [Nathan Ribeiro]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
+[![LinkedIn](https://www.linkedin.com/in/dev-nathan-ribeiro/)
 [![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
 ## 👋 Olá!
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+Sou um Desenvolvedor Full Stack Java apaixonado por tecnologia e resolução de problemas. Tenho experiência com Java, Spring Boot, SQL, JavaScript, HTML, CSS e outras tecnologias do ecossistema Full Stack.
+
+Atualmente, foco no desenvolvimento de aplicações web utilizando RESTful APIs, bancos de dados relacionais e front-end interativo. Além disso, tenho experiência com metodologias ágeis como Scrum e boas práticas de Testes de Software.
+
+💡 Sempre buscando aprimorar minhas habilidades e contribuir para projetos inovadores!.
 
 ## 🚀 Habilidades Técnicas
 
