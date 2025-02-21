@@ -23,7 +23,7 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 [![My Skills](https://skillicons.dev/icons?i=java,cs,javascript,typescript,python,sql)](https://skillicons.dev)  
 
 ### 🛠️ Frameworks e Bibliotecas  
-[![My Skills](https://skillicons.dev/icons?i=spring,react,.net)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=spring,react,dotnet)](https://skillicons.dev)  
 
 ### 📊 Banco de Dados  
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)  
