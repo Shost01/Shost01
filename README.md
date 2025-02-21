@@ -9,7 +9,7 @@
 
 ## 👋 Sobre mim  
 
-Sou um **Desenvolvedor Full Stack Java** apaixonado por tecnologia e soluções inovadoras. Tenho experiência com **Java, Spring Boot, SQL, JavaScript, HTML, CSS** e outras tecnologias do ecossistema Full Stack.  
+Sou um **Desenvolvedor Full Stack Java e C#** apaixonado por tecnologia e soluções inovadoras. Tenho experiência com **Java, C#, .NET, Spring Boot, SQL, JavaScript, HTML, CSS** e outras tecnologias do ecossistema Full Stack. 
 
 Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando **RESTful APIs, bancos de dados relacionais** e interfaces interativas. Além disso, possuo conhecimentos em **metodologias ágeis (Scrum) e boas práticas de testes de software**.  
 
@@ -23,7 +23,7 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 [![My Skills](https://skillicons.dev/icons?i=java,cs,javascript,typescript,python,sql)](https://skillicons.dev)  
 
 ### 🛠️ Frameworks e Bibliotecas  
-[![My Skills](https://skillicons.dev/icons?i=spring,react,dotnet)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,react)](https://skillicons.dev)  
 
 ### 📊 Banco de Dados  
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)  
