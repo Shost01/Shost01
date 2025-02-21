@@ -29,7 +29,7 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)  
 
 ### 🔧 Ferramentas e Tecnologias  
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,visualstudiocode,eclipse,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,eclipse,docker)](https://skillicons.dev)  
 
 ### 🌍 Desenvolvimento Web  
 [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)  
