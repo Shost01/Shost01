@@ -4,7 +4,7 @@
 
 # [Nathan Ribeiro]
 
-[![LinkedIn](https://www.linkedin.com/in/dev-nathan-ribeiro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[https://www.linkedin.com/in/dev-nathan-ribeiro/]-blue?logo=linkedin)](https://www.linkedin.com/in/[https://www.linkedin.com/in/dev-nathan-ribeiro/])
 [![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
 ## 👋 Olá!
