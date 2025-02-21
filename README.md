@@ -38,7 +38,7 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 
 ## 🏆 Projetos Destacados  
 
-- [📌 Projeto 1](https://github.com/[seu-usuario]/projeto1) - Breve descrição do projeto e principais características.  
+- [📌 Blog Pessoal](https://github.com/Shost01/blogpessoal_fullstack) - Breve descrição do projeto e principais características.  
 - [📌 Projeto 2](https://github.com/[seu-usuario]/projeto2) - Breve descrição do projeto e principais características.  
 - [📌 Projeto 3](https://github.com/[seu-usuario]/projeto3) - Breve descrição do projeto e principais características.  
 
