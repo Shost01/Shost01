@@ -38,9 +38,9 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 
 ## 🏆 Projetos Destacados  
 
-- [📌 Blog Pessoal](https://github.com/Shost01/blogpessoal_fullstack) - Breve descrição do projeto e principais características.  
-- [📌 Pizza Rush](https://github.com/Shost01/Pizza-Rush) - Breve descrição do projeto e principais características.  
-- [📌 Projeto 3](https://github.com/[seu-usuario]/projeto3) - Breve descrição do projeto e principais características.  
+- [📌 Blog Pessoal](https://github.com/Shost01/blogpessoal_fullstack) - Aplicação full-stack com Spring Boot (backend) e React (frontend), focada em criar, editar e visualizar posts de blog, com autenticação de usuários..  
+- [📌 Pizza Rush](https://github.com/Shost01/Pizza-Rush) - Jogo Endles Runner em Unity 3D, onde o jogador deve gerenciar e entregar pizzas, enfrentando desafios de tempo e obstáculos.  
+- [📌 Loja de Games](https://github.com/Shost01/Projeto_Loja_de_Games/tree/main) - Sistema de gerenciamento de vendas de jogos desenvolvido com Spring Boot e MySQL, permitindo cadastro, edição e simulação de compras de jogos via API RESTful..  
 
 ---
 
