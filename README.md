@@ -19,7 +19,7 @@ Atualmente, foco no desenvolvimento de aplicações web utilizando RESTful APIs,
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,c#,javascript,typesscript,python,sql)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
