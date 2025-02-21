@@ -47,8 +47,8 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 ## 📊 Estatísticas GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Shost01]&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Shost01]&layout=compact&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shost01&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shost01&layout=compact&theme=merko"/>
 </div>
 
 ---
