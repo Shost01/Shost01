@@ -20,7 +20,7 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 ## 🚀 Habilidades Técnicas  
 
 ### 💻 Linguagens de Programação  
-[![My Skills](https://skillicons.dev/icons?i=java,csharp,javascript,typescript,python,sql)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,c#,javascript,typescript,python,sql)](https://skillicons.dev)  
 
 ### 🛠️ Frameworks e Bibliotecas  
 [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)  
