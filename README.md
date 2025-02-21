@@ -2,44 +2,59 @@
   <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
 </div>
 
-# [Nathan Ribeiro]
+# Nathan Ribeiro  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan-blue?logo=linkedin)](https://www.linkedin.com/in/dev-nathan-ribeiro/)
-[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan-blue?logo=linkedin)](https://www.linkedin.com/in/dev-nathan-ribeiro/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Nathan-blue?logo=google-chrome)](https://www.[seusite.com])  
 
-## 👋 Olá!
+## 👋 Sobre mim  
 
-Sou um Desenvolvedor Full Stack Java apaixonado por tecnologia e resolução de problemas. Tenho experiência com Java, Spring Boot, SQL, JavaScript, HTML, CSS e outras tecnologias do ecossistema Full Stack.
+Sou um **Desenvolvedor Full Stack Java** apaixonado por tecnologia e soluções inovadoras. Tenho experiência com **Java, Spring Boot, SQL, JavaScript, HTML, CSS** e outras tecnologias do ecossistema Full Stack.  
 
-Atualmente, foco no desenvolvimento de aplicações web utilizando RESTful APIs, bancos de dados relacionais e front-end interativo. Além disso, tenho experiência com metodologias ágeis como Scrum e boas práticas de Testes de Software.
+Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando **RESTful APIs, bancos de dados relacionais** e interfaces interativas. Além disso, possuo conhecimentos em **metodologias ágeis (Scrum) e boas práticas de testes de software**.  
 
-💡 Sempre buscando aprimorar minhas habilidades e contribuir para projetos inovadores!.
+💡 **Sempre buscando evolução e novos desafios!**  
 
-## 🚀 Habilidades Técnicas
+---
 
-- Linguagens de Programação: 
+## 🚀 Habilidades Técnicas  
 
-    [![My Skills](https://skillicons.dev/icons?i=java,csharp,javascript,typesscript,python,sql)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+### 💻 Linguagens de Programação  
+[![My Skills](https://skillicons.dev/icons?i=java,csharp,javascript,typescript,python,sql)](https://skillicons.dev)  
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
-- Dados: 
+### 🛠️ Frameworks e Bibliotecas  
+[![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)  
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+### 📊 Banco de Dados  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)  
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
-- Desenvolvimento Web:
+### 🔧 Ferramentas e Tecnologias  
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,docker)](https://skillicons.dev)  
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+### 🌍 Desenvolvimento Web  
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)  
 
-## 🏆 Projetos Destacados
+---
 
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
+## 🏆 Projetos Destacados  
 
+- [📌 Projeto 1](https://github.com/[seu-usuario]/projeto1) - Breve descrição do projeto e principais características.  
+- [📌 Projeto 2](https://github.com/[seu-usuario]/projeto2) - Breve descrição do projeto e principais características.  
+- [📌 Projeto 3](https://github.com/[seu-usuario]/projeto3) - Breve descrição do projeto e principais características.  
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
+---
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=merko)
+## 📊 Estatísticas GitHub  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SeuGitHub]&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SeuGitHub]&layout=compact&theme=merko"/>
+</div>
+
+---
+
+📫 **Entre em contato:**  
+📌 [LinkedIn](https://www.linkedin.com/in/dev-nathan-ribeiro/)  
+📌 [Portfólio](https://www.[seusite.com])  
+
+💡 *Aberto a novas oportunidades e colaborações!* 🚀  
