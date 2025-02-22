@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan-blue?logo=linkedin)](https://www.linkedin.com/in/dev-nathan-ribeiro/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Nathan-blue?logo=google-chrome)](https://www.[seusite.com])  
+[![Email](https://img.shields.io/badge/Email-ribeiro.nathan2002@gmail.com-red?logo=gmail)](mailto:seuemail@gmail.com)
 
 ## 👋 Sobre mim  
 
