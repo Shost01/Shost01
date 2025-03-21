@@ -56,6 +56,5 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 
 📫 **Entre em contato:**  
 📌 [LinkedIn](https://www.linkedin.com/in/dev-nathan-ribeiro/)  
-📌 [Portfólio](https://www.[seusite.com])  
 
 💡 *Aberto a novas oportunidades e colaborações!* 🚀  
