@@ -24,7 +24,7 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 [![My Skills](https://skillicons.dev/icons?i=java,cs,javascript,typescript,python,sql)](https://skillicons.dev)  
 
 ### 🛠️ Frameworks e Bibliotecas  
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,react,playwright)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,react)](https://skillicons.dev)
 <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="32" height="32" style="vertical-align: middle; margin-left: 8px;" />
 
 ### 📊 Banco de Dados  
