@@ -10,9 +10,9 @@
 
 ## 👋 Sobre mim  
 
-Sou um **Desenvolvedor Full Stack Java e C#** apaixonado por tecnologia e soluções inovadoras. Tenho experiência com **Java, C#, .NET, Spring Boot, SQL, JavaScript, HTML, CSS** e outras tecnologias do ecossistema Full Stack. 
+Sou um **Desenvolvedor Full Stack Java e C#** apaixonado por tecnologia e soluções inovadoras. Tenho experiência com **Java, C#, .NET, Spring Boot, SQL, JavaScript, HTML, CSS** e outras tecnologias do ecossistema Full Stack, atuando tanto no back-end quanto no front-end. 
 
-Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando **RESTful APIs, bancos de dados relacionais** e interfaces interativas. Além disso, possuo conhecimentos em **metodologias ágeis (Scrum) e boas práticas de testes de software**.  
+Atualmente, meu foco está no desenvolvimento de soluções completas, **APIs RESTful, bancos de dados relacionais** e interfaces interativas. Além disso, possuo conhecimentos em **metodologias ágeis (Scrum) versionamento com Git e boas práticas de testes automatizados.**.  
 
 💡 **Sempre buscando evolução e novos desafios!**  
 
