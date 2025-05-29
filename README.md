@@ -14,7 +14,7 @@ Sou um **Desenvolvedor Full Stack Java e C#** apaixonado por tecnologia e soluç
 
 Atualmente, meu foco está no desenvolvimento de soluções completas, **APIs RESTful, bancos de dados relacionais** e interfaces interativas. Além disso, possuo conhecimentos em **metodologias ágeis (Scrum) versionamento com Git e boas práticas de testes automatizados.**.  
 
-💡 **Sempre buscando evolução e novos desafios!**  
+💡 **Sou movido por desafios e sempre em busca de evolução contínua!**  
 
 ---
 
