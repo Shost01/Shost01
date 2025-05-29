@@ -24,7 +24,7 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 [![My Skills](https://skillicons.dev/icons?i=java,cs,javascript,typescript,python,sql)](https://skillicons.dev)  
 
 ### 🛠️ Frameworks e Bibliotecas  
-[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,react)](https://skillicons.dev)<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="32" height="32" style="vertical-align: middle; margin-left: 8px;" />
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,react)](https://skillicons.dev)
 
 ### 📊 Banco de Dados  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongo)](https://skillicons.dev)  
@@ -39,9 +39,10 @@ Atualmente, meu foco está no desenvolvimento de **aplicações web**, criando *
 
 ## 🏆 Projetos Destacados  
 
-- [📌 Blog Pessoal](https://github.com/Shost01/blogpessoal_fullstack) - Aplicação full-stack com Spring Boot (backend) e React (frontend), focada em criar, editar e visualizar posts de blog, com autenticação de usuários..  
+- [📌 Blog Pessoal](https://github.com/Shost01/blogpessoal_fullstack) - Aplicação full-stack com Spring Boot (backend) e React (frontend), focada em criar, editar e visualizar posts de blog, com autenticação de usuários.
 - [📌 Pizza Rush](https://github.com/Shost01/Pizza-Rush) - Jogo Endles Runner em Unity 3D, onde o jogador deve gerenciar e entregar pizzas, enfrentando desafios de tempo e obstáculos.  
-- [📌 Manda pra Min delivery](https://github.com/Projeto-Integrador-Grupo7/MandaPraMim) - site de delivery desenvolvido em equipe com o objetivo de facilitar a interação entre o usuário e a empresa. Aplicação full stack construída com Java e Spring Boot no backend, e React com TypeScript no frontend.
+- [📌 Manda pra Min delivery](https://github.com/Projeto-Integrador-Grupo7/MandaPraMim) - Site de delivery desenvolvido em equipe com o objetivo de facilitar a interação entre o usuário e a empresa. Aplicação full stack construída com Java e Spring Boot no backend, e React com TypeScript no frontend.
+- [📌 Teste automatizado](https://github.com/Shost01/playwright_sauce_demo) - Automação de testes funcional na plataforma Sauce Demo utilizando Playwright, com scripts que simulam interações reais do usuário para garantir a qualidade da aplicação.
 
 ---
 
